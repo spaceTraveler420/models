@@ -1,7 +1,12 @@
 body {
   background-color: rgb(200, 100, 75);
 }
-
+p {
+  
+}
+ul {
+  
+}
 #article-title {
   border-style: solid, 3px; 
 }

@@ -1,3 +1,7 @@
 body {
   background-color: brown;
 }
+
+#article-title {
+  border-style: solid, 3px; 
+}

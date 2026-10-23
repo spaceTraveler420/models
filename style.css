@@ -1,4 +1,5 @@
 body {
   div.a 
-  width: calc(100px * tan(0.125turn)
+  width: calc(100px * tan(0.5773502));
+}
 

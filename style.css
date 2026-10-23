@@ -1,5 +1,5 @@
 body {
-  div.a 
-  width: calc(100px * tan(pi / 3));
+div.c {
+  width: calc(100px * tan(0.5773502));
 }
 

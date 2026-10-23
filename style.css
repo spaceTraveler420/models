@@ -1,5 +1,5 @@
 body {
 div.c {
-  width: calc(100px * tan(0.5773502));
+ width: calc(100px * tan(45deg));
 }
 

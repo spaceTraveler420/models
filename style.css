@@ -1,5 +1,6 @@
 body {
-div.b {
-  width: calc(100px * tan(0.125turn));
+.center
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-

@@ -4,4 +4,13 @@ h1 {
 p {
   text-align: center;
   text-decoaration-line: underline;
+  color: blue;
+}
+
+body {
+  color: blue;
+}
+
+h1 {
+  color: blue;
 }

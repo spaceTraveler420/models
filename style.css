@@ -1,6 +1,8 @@
 body {
-.center
   display: flex;
   justify-content: center;
   align-items: center;
+}
+#article-title {
+  text-align: center;
 }

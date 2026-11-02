@@ -1,5 +1,5 @@
 body {
-  color: blue;
+  background-color: rgb(255, 0, 220);
 }
 h1 {
   text-align: center;
@@ -11,6 +11,6 @@ p {
   color: blue;
 }
 
-h1 {
+.description {
   color: blue;
 }

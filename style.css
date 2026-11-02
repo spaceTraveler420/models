@@ -3,6 +3,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-#article-title {
+h1 {
   text-align: center;
 }
